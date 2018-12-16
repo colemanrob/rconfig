@@ -9,4 +9,4 @@ further to the test is the following:
 
 testing credential helper in win10
 
-
+`git config --global credential.helper wincred`
